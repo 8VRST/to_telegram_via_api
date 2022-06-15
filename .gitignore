@@ -1,0 +1,8 @@
+venv
+__pycache__
+.idea
+.vscode
+test_flat.json
+creds.json
+tests.py
+test.py
